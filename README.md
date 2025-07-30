@@ -7,19 +7,25 @@ To analyze Superstore sales data and present key business insights through an in
 
 🧩 Dataset
 Source: Sample Superstore Dataset (commonly used for BI practice)
+
 Size: ~10,000 records
+
 Fields Used: Order Date, Sales, Profit, Category, Sub-Category, Segment, Customer, Region, State
 
 🛠️ Tools Used
 Power BI Desktop
+
 Power Query Editor
+
 DAX for calculated fields and KPIs
+
 Conditional formatting for enhanced visuals
 
 📈 Dashboard Features
                              
 ✅ KPI Cards	                        
 Total Sales, Total Profit, Profit %, Total Orders
+
 📅 Monthly Trends	                    
 Sales and Profit line chart per month
 
@@ -40,20 +46,29 @@ Filter by Year, Category, Region
 
 💡 Key Insights
 Technology generated the highest sales across all categories.
+
 Copiers were the most profitable sub-category.
+
 Sean Miller was the top customer in terms of total purchases.
+
 Western Region contributed a significant share to overall sales.
 
 📁 Files Included
 Sales Dashboard.pbix — Power BI report file
+
 Superstore_Sales_Dashboard_Snapshot - Image of the final dashboard
+
 README.md – This documentation
 
 ✅ Portfolio Value
 This project demonstrates:
+
 Data modeling and DAX calculation
+
 Visual storytelling and clean UI design
+
 Practical business insight delivery
+
 Effective use of Power BI interactivity
 
 
