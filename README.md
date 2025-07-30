@@ -17,14 +17,26 @@ DAX for calculated fields and KPIs
 Conditional formatting for enhanced visuals
 
 📈 Dashboard Features
-Element	                              Description
-✅ KPI Cards	                        Total Sales, Total Profit, Profit %, Total Orders
-📅 Monthly Trends	                    Sales and Profit line chart per month
-🗃️ Category & Sub-Category Views      Bar charts showing sales and profitability by category
-🌍 Geo Map                            Sales by State using a filled map
-👥 Top 10 Customers	                  Table with conditional formatting
-🍩 Segment Overview	                  Donut chart showing customer segment share
-🔘 Interactive Slicers	              Filter by Year, Category, Region
+                             
+✅ KPI Cards	                        
+Total Sales, Total Profit, Profit %, Total Orders
+📅 Monthly Trends	                    
+Sales and Profit line chart per month
+
+🗃️ Category & Sub-Category Views      
+Bar charts showing sales and profitability by category
+
+🌍 Geo Map                            
+Sales by State using a filled map
+
+👥 Top 10 Customers	                  
+Table with conditional formatting
+
+🍩 Segment Overview	                  
+Donut chart showing customer segment share
+
+🔘 Interactive Slicers	              
+Filter by Year, Category, Region
 
 💡 Key Insights
 Technology generated the highest sales across all categories.
