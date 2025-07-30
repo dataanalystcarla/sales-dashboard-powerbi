@@ -6,13 +6,13 @@ To analyze Superstore sales data and present key business insights through an in
  The goal is to identify trends, top-performing products, regions, and customer segments to support data-driven decisions.
 
 🧩 Dataset
+
 Source: Sample Superstore Dataset (commonly used for BI practice)
-
 Size: ~10,000 records
-
 Fields Used: Order Date, Sales, Profit, Category, Sub-Category, Segment, Customer, Region, State
 
 🛠️ Tools Used
+
 Power BI Desktop
 
 Power Query Editor
